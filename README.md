@@ -13,6 +13,18 @@ Predição de Cargas de Aquecimento e Resfriamento
 Arquivo do projeto: “Building_Energy_Efficiency.ipynb” desenvolvido no VS Code, rodando com Python miniconda 3.14.7.
 Base de dados: “ENB2012_data.xlsx” que pode ser baixada no link: https://archive.ics.uci.edu/static/public/242/energy+efficiency.zip
 
+A pasta do meu repositório possui a seguinte estrutura:
+NSON_TCC_ICD/
+│
+├── Building_Energy_Efficiency.ipynb
+│
+├── Dados/
+│   └── energy+efficiency/
+│       └── ENB2012_data.xlsx
+│
+└── README.md
+
+
 Objetivo:
 	Avaliar se é possível fazer predições das cargas de energia necessárias o aquecimento e o resfriamento de edificações residenciais com base em informações da arquitetura da edificação residencial.
 Abordagem utilizada:
